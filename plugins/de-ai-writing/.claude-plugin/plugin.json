@@ -1,0 +1,5 @@
+{
+  "name": "de-ai-writing",
+  "description": "Rewrite text to remove the signs of AI writing catalogued in Wikipedia's field guide, with a scanner script.",
+  "author": { "name": "jacob5567" }
+}

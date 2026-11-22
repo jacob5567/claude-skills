@@ -1,0 +1,17 @@
+{
+  "name": "claude-skills",
+  "owner": { "name": "jacob5567" },
+  "metadata": { "description": "Skills for Claude: ADHD-friendly replies and de-AI'd writing." },
+  "plugins": [
+    {
+      "name": "adhd",
+      "source": "./plugins/adhd",
+      "description": "Shape every reply for a reader with ADHD: next action first, numbered steps, restated progress, concrete time estimates, no tangents."
+    },
+    {
+      "name": "de-ai-writing",
+      "source": "./plugins/de-ai-writing",
+      "description": "Rewrite text to remove the signs of AI writing catalogued in Wikipedia's field guide, with a scanner script."
+    }
+  ]
+}
